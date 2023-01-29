@@ -7,7 +7,7 @@ export function HomeScreen() {
   return (
     <Screen>
       <View>
-        <Text>{'Hello world, this was made with <3 by Hxro :)'}</Text>
+        <Text>{'Hello world, this WorkShop was made with <3 by Hxro :)'}</Text>
       </View>
     </Screen>
   );
